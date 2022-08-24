@@ -9,7 +9,7 @@ template:
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/tholzschuh/archive/edit/master/content
+  editBaseUrl: https://github.com/tholzschuh/archive/edit/master/content/zettelkasten
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
